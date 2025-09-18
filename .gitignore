@@ -1,0 +1,12 @@
+# Visual Studio / .NET
+bin/
+obj/
+*.user
+*.suo
+*.pdb
+*.cache
+
+# Rider / IntelliJ
+.idea/
+*.DotSettings.user
+
